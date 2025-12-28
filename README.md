@@ -21,7 +21,7 @@ I’m currently merging two of my greatest passions—**Coding and Gastronomy**�
 
 ---
 
-###👋 Let's Connect!
+### 👋 Let's Connect!
 
 I’m looking for fellow developers and foodies to discuss the evolution of Gram or just to chat about design, code, and science. Whether you want to contribute, give feedback, or share a professional pastry tip:
 
